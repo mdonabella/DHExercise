@@ -10,7 +10,7 @@ At the end of the class you can write here a final thought on the exercise and o
 - [Link to my GitHub Repository for today](https://github.com/mdonabella/DHExercise) and [GitHub Pages](https://github.com/mdonabella/)
 - [Link to my HTML and CSS files](https://github.com/mdonabella/DHExercise/blob/gh-pages/exercise2.html)
 - [Link to Pandoc transformations](https://github.com/mdonabella/DHExercise/blob/gh-pages/pandoc_transformations%202.zip)
-- [Link to my Bibliography](https://github.com/mdonabella/DHExercise/blob/gh-pages/bibliography.html)
+- [Link to my Bibliography](https://mdonabella.github.io/DHExercise/bibliography.html)
 
 ## Comments or notes about problems 
 
